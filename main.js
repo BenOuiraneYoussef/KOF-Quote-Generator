@@ -241,5 +241,5 @@ function updateTestimonial(){
     }
     setTimeout(()=>{
         updateTestimonial()
-    },500)
+    },3200)
 }
